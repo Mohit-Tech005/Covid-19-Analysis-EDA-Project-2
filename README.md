@@ -6,7 +6,11 @@
 
 ---
 
-### 🔗 [View Streamlit Version]()
+### 🔗 View Streamlit App
+
+Click the link below to open the Streamlit dashboard:
+
+👉 Launch App
 
 ## 📌 Project Overview
 
